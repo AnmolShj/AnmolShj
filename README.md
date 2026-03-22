@@ -158,6 +158,21 @@ A production platform that processes large medical claim PDFs end-to-end:
 
 
 </div>
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://github.com/AnmolShj/AnmolShj/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnmolShj&label=Profile%20Views&color=06760E&style=for-the-badge" />
+</p>
 
 ---
 
