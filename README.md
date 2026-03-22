@@ -160,10 +160,7 @@ A production platform that processes large medical claim PDFs end-to-end:
 </div>
 
 ## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://github.com/AnmolShj/AnmolShj/blob/output/github-contribution-grid-snake.svg" />
-</p>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
 ## 👀 Profile Views
 
