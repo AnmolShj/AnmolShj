@@ -22,7 +22,7 @@
 <img align="right" height="310" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDF3b2lkOTU1a3J5aDVibXduMWc2YnpkMzU5ZzZoZWd0a3lpMmM2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif"/>
 ## 🚀 About Me
 
-I build **production-grade AI systems for complex regulated environments** — where **correctness, reliability, security, and explainability** matter more than benchmarks.
+I build **production-ready AI and Cloud systems** for real-world workflows — where correctness, reliability, security, and scalability matter more than benchmarks.
 
 My work sits at the intersection of:
 
@@ -31,7 +31,7 @@ My work sits at the intersection of:
 - ⚙️ **AI Platform Engineering** (on-prem, cloud, gov cloud; microservices; CI/CD)
 - ⚡ **GPU + inference systems** (CUDA, NVIDIA drivers, custom builds, profiling)
 
-I’m passionate about **Responsible AI in healthcare** — making care faster and easier while staying **audit-friendly, verifiable, and compliant**.
+I’m passionate about **Responsible AI and scalable cloud solutions** — building systems that are reliable, verifiable, and maintainable.
 
 ---
 
